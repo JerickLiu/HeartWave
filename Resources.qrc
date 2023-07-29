@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/buttons/upbutton.png</file>
+        <file>img/buttons/rightbutton.png</file>
+        <file>img/buttons/downbutton.png</file>
+        <file>img/buttons/leftbutton.png</file>
+        <file>img/buttons/okbutton.png</file>
+        <file>img/buttons/powerbutton.png</file>
+        <file>img/buttons/menubutton.png</file>
+        <file>img/buttons/backbutton.png</file>
+        <file>data/low.txt</file>
+        <file>data/med.txt</file>
+        <file>data/high.txt</file>
+        <file>data/low_coherence.txt</file>
+        <file>data/med_coherence.txt</file>
+        <file>data/high_coherence.txt</file>
+        <file>data/mixed.txt</file>
+        <file>data/mixed_coherence.txt</file>
+        <file>img/sensors/sensor_off.png</file>
+        <file>img/sensors/sensor_on.png</file>
+        <file>data/hr_contact_lost.txt</file>
+        <file>data/short_test.txt</file>
+        <file>data/short_test_coherence.txt</file>
+        <file>data/hr_contact_lost_coherence.txt</file>
+    </qresource>
+</RCC>
